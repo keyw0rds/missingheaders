@@ -6,16 +6,13 @@
 Function
 ----
 ***Checking Incorrect Security Header Configuration***
-<table>
-    <tr>
-        <th>content-security-policy</th>
-        <th>x-xss-protection</th>
-        <th>strict-transport-security</th>
-        <th>x-frame-options</th>
-        <th>public-key-pins</th>
-        <th>x-content-type</th>
-    </tr>
-</table>
++ content-security-policy<br />
++ x-xss-protection<br />
++ strict-transport-security<br />
++ x-frame-options<br />
++ public-key-pins<br />
++ x-content-type<br />
+    <br />
 
 Screenshots
 ----
