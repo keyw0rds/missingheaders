@@ -8,8 +8,6 @@ Function
 <table>
     <tr>
         <th>Headers Scan</th>
-    </tr>
-    <tr>
         <td>content-security-policy</td>
         <td>x-xss-protection</td>
         <td>strict-transport-security</td>
