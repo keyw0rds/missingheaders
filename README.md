@@ -7,12 +7,13 @@ Function
 ----
 ***Checking Incorrect Security Header Configuration***
 <table>
-        <tr>content-security-policy</tr>
-        <tr>x-xss-protection</tr>
-        <tr>strict-transport-security</tr>
-        <tr>x-frame-options</tr>
-        <tr>public-key-pins</tr>
-        <tr>x-content-type</tr>
+    <tr>
+        <th>content-security-policy</th>
+        <th>x-xss-protection</th>
+        <th>strict-transport-security</th>
+        <th>x-frame-options</th>
+        <th>public-key-pins</th>
+        <th>x-content-type</th>
     </tr>
 </table>
 
