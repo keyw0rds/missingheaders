@@ -20,12 +20,11 @@ Screenshots
 
 Usage
 ----
-'''
 $ git clone https://github.com/keyw0rds/missingheaders<br />
 $ cd missingheaders<br />
 $ bash checking.sh<br />
-'''
 
+---
 
 Luf 💕 Keju Mozza<br /><br />
 pwnd by AnonCyberTeam & TEH Squad Cyber
