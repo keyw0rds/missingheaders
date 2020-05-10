@@ -12,7 +12,7 @@ $ git clone https://github.com/keyw0rds/missingheaders
 
 Usage
 ----
-$ cd missingheaders
+$ cd missingheaders </ br>
 $ bash checking.sh
 
-[![Package](https://img.shields.io/badge/Package-cURL-yellow.svg)] [![Contact](https://img.shields.io/badge/Instagram-%40mhiidayatt-purple.svg)](https://www.instagram.com/mhiidayatt/) 
+(https://img.shields.io/badge/Package-cURL-yellow.svg) [![Contact](https://img.shields.io/badge/Instagram-%40mhiidayatt-purple.svg)](https://www.instagram.com/mhiidayatt/) 
